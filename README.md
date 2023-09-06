@@ -25,8 +25,8 @@ I have experience working with:
 
 Let's stay in touch! You can find me on LinkedIn, or drop me an email.
 
--[LinkedIn](https://www.linkedin.com/in/aiman-ijaz-701636243)
--[Email](aimanijaz562@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aiman-ijaz-701636243)
+- [Email](aimanijaz562@gmail.com)
 
 
 Thank you for visiting my GitHub profile. Feel free to explore my projects and reach out if you have any questions or opportunities for collaboration.
